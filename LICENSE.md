@@ -1,4 +1,4 @@
-# 
+# Profesional LangChain scripts. Con búsqueda semántica y entrenamiento de modelos personalizados — optimizado para el máximo rendimiento y eficiencia.
 
 
 
